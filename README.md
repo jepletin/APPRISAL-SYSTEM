@@ -1,2 +1,4 @@
 # APPRISAL-SYSTEM
-online employee performance appraisal system 
+online employee performance appraisal system  is a system for evaluating employee based on some metrics like time,effeciency quality of work and effectiveness.
+A performance appraisal refers to the evaluation of an employee's actual delivery against the expectations in order to determine their contribution to the organization's overall performance as well as make administrative decisions regarding promotions, remunerations, and job rotations. In many institutions, the main goal of an appraisal system is to improve an individual's and organizational performance.
+online system will help  automate the evaluation and rating of employees to reduce time wastage. The system will reduce paperwork and save the space used to store files. The reduction of paperwork, consequently, reduces the expenses on stationery and the cost of storage. Therefore, the system will reduce the cost of operations in the human resource department.
